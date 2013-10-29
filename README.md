@@ -1,4 +1,1 @@
-
-Please open the index.html directly.
-
-continuously updated.
+Cannot be properly viewed on [github pages](http://hetong007.github.io/ensemble_slidify). 
